@@ -49,31 +49,32 @@
 </details>
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <h3>💻 GitHub Profile Stats</h3></summary>
 
-  <h3>🔥 Streak Stats</h3>
-  <p>
-    <a href="https://github.com/riddhigupta3011/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="riddhigupta3011's streak" src="https://streak-stats.demolab.com/?user=riddhigupta3011&theme=monokai-metallian&hide_border=true"/>
-    </a>
-
-  <summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhigupta3011&show_icons=true&locale=en&layout=compact" alt="riddhigupta3011" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhigupta3011&show_icons=true&locale=en&layout=compact" alt="riddhigupta3011" />
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riddhigupta3011&show_icons=true&locale=en" alt="riddhigupta3011" /></p>
   <br/>
-  <h3>🔝 Top Contributed Repo</h3>
+  <strong>🏆riddhi lab's github stats</strong>
+
+  <a href="https://stats.hyochan.dev/en/stats/riddhigupta3011"><img src="https://stats.hyochan.dev/api/github-stats?login=riddhigupta3011" width="600" /></a>
+
+</details>
+<details>
+  <summary><h2>🔝 Top Contributed Repo</h2></summary>
   <a href="https://github-contributor-stats.vercel.app/api?username=riddhigupta3011&limit=5&theme=flat&combine_all_yearly_contributions=true"/></a>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="riddhigupta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=riddhigupta3011&&theme=rogue" /></a>
 </details>
+<h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/riddhigupta3011/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="riddhigupta3011's streak" src="https://streak-stats.demolab.com/?user=riddhigupta3011&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
 
 
-
-  <strong>🏆riddhi lab's github stats</strong>
-
-<a href="https://stats.hyochan.dev/en/stats/riddhigupta3011"><img src="https://stats.hyochan.dev/api/github-stats?login=riddhigupta3011" width="600" /></a>
-
+  
 
 ## github contribution snake animation
 <picture>
