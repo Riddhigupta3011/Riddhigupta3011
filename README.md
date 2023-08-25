@@ -56,7 +56,7 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="riddhigupta3011's streak" src="https://streak-stats.demolab.com/?user=riddhigupta3011&theme=monokai-metallian&hide_border=true"/>
     </a>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <summary><h3>💻 GitHub Profile Stats</h3></summary>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhigupta3011&show_icons=true&locale=en&layout=compact" alt="riddhigupta3011" /></p>
 
